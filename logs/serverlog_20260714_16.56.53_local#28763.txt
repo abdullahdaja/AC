@@ -1,0 +1,23 @@
+logging local AssaultCube server (version 1302, protocol 1300/104) now..
+server is LAN-only - without connection to masterserver
+ACTION REQUIRED: you must provide a PRIVATE SERVER KEY via the '-Y' command line argument
+LAN-only because no master is given
+read 2 player vitas from config/servervita.cfg
+anticheat: disabled
+dedicated server started, waiting for clients...
+Ctrl-C to exit
+added 44 servermaps
+read 0 map rotation entries from 'config/maprot.cfg'
+read 0 admin passwords from 'config/serverpwd.cfg'
+read 0 (0) blacklist entries from 'config/serverblacklist.cfg', 0 errors
+read 3 (3) IP list entries from 'config/geoip.cfg', 0 errors, 0 concatenated
+read 0 + 0 entries from nickname blacklist file 'config/nicknameblacklist.cfg', 0 errors
+[192.168.1.43] client connected (--)
+[192.168.1.43] abdullah logged in (default), AC: 1302|1604, pubkey: ee13d1d89e6257c327d0964244516038ee6f71e5acb6b6bca42f47d14e214eb7
+
+Game start: keep the flag on ac_desert3, 1 players, 10 minutes, mastermode 0, (map rev 21/10128, official, 'getmap' not prepared)
+initdemoslot(): use slot 0, sequence #1
+Demo recording started (#1).
+setupdemorecord(): sequence #1, keep the flag on ac_desert3
+[25.30.103.76] client connected (--)
+[25.30.103.76] meadows logged in (default), AC: 1302|1640, pubkey: ec3383bbc6f0a1f928cf8cb62aff4ab8115709199f0ce98ee052da6c7aec09ce

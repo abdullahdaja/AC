@@ -5,8 +5,8 @@ CUBE_DIR=$(dirname "$(readlink -f "${0}")")
 CUBE_EXEC=assaultcube.sh
 LAUNCHERPATH="${HOME}/.local/share/applications/"
 
-LAUNCHERFILE=assaultcube_dev.desktop
-LAUNCHERTITLE="AssaultCube v1.2dev"
+LAUNCHERFILE=assaultcube.desktop
+LAUNCHERTITLE="AssaultCube v1.3.0.2"
 
 # Remove existing menuitem, if it exists:
 EXISTINGEXEC=`find "${LAUNCHERPATH}" -name "assaultcube*" | xargs`

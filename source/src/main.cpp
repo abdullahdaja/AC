@@ -1128,7 +1128,7 @@ void connectprotocol(char *protocolstring) // assaultcube://example.org[:28763][
 }
 
 int bakshowmenuonstartup = -1;
-char *aaconnect = NULL;
+static char *aaconnect = NULL;
 void afterauth()
 {
     // currently only for delayed connectprotocol

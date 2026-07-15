@@ -1,0 +1,1 @@
+logging local AssaultCube server (version -1302, protocol -1300/104) now..

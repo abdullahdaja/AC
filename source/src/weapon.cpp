@@ -51,7 +51,7 @@ void checkweaponswitch()
 
 void selectweapon(weapon *w)
 {
-    if(!w || !player1->weaponsel->deselectable() || ispaused || intermission) return;
+    if(!w || !player1->weaponsel->deselectable() || ispaused) return;
     if(w->selectable())
     {
         if(player1->attacking && player1->state == CS_ALIVE) attack(false);
@@ -1052,7 +1052,17 @@ void weapon::renderhudmodel(int lastaction, int index)
     if(!intermission || !ispaused) wm.calcmove(unitv, lastaction, p);
     defformatstring(path)("weapons/%s", info.modelname);
     bool emit = (wm.anim&ANIM_INDEX)==ANIM_GUN_SHOOT && (lastmillis - lastaction) < flashtime();
-    rendermodel(path, wm.anim|ANIM_DYNALLOC|(righthanded==index ? ANIM_MIRROR : 0)|(emit ? ANIM_PARTICLE : 0), 0, -1, wm.pos, 0, p->yaw+90, p->pitch+wm.k_rot, 40.0f, wm.basetime, NULL, NULL, 1.28f);
+    float scale = 1.28f;
+    // if player is scoping, nudge model toward center and slightly scale up
+    if(p->scoping)
+    {
+        float zoom_nudge = 0.6f; // small forward nudge to appear centered
+        vec nudge = unitv;
+        if(nudge.magnitude() > 0.001f) nudge.mul(zoom_nudge);
+        wm.pos.sub(nudge);
+        scale = 1.5f;
+    }
+    rendermodel(path, wm.anim|ANIM_DYNALLOC|(righthanded==index ? ANIM_MIRROR : 0)|(emit ? ANIM_PARTICLE : 0), 0, -1, wm.pos, 0, p->yaw+90, p->pitch+wm.k_rot, 40.0f, wm.basetime, NULL, NULL, scale);
 }
 
 void weapon::updatetimers(int millis)
@@ -1663,9 +1673,12 @@ void knife::renderstats() { }
 
 void setscope(bool enable)
 {
-    if(player1->weaponsel->type != GUN_SNIPER) return;
-    sniperrifle *sr = (sniperrifle *)player1->weaponsel;
-    sr->setscope(enable);
+    if(player1->weaponsel->type == GUN_SNIPER)
+    {
+        sniperrifle *sr = (sniperrifle *)player1->weaponsel;
+        sr->setscope(enable);
+    }
+    else player1->scoping = enable;
 }
 
 COMMANDF(setscope, "i", (int *on) { setscope(*on != 0); });

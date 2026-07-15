@@ -2,8 +2,8 @@
 
 #define gamemode sg->smode   // allows the gamemode macros to work with the server mode
 
-#define SERVER_PROTOCOL_VERSION    (PROTOCOL_VERSION)    // server without any gameplay modification
-//#define SERVER_PROTOCOL_VERSION   (-PROTOCOL_VERSION)  // server with gameplay modification but compatible to vanilla client (using /modconnect)
+//#define SERVER_PROTOCOL_VERSION    (PROTOCOL_VERSION)    // server without any gameplay modification
+#define SERVER_PROTOCOL_VERSION   (-PROTOCOL_VERSION)  // server with gameplay modification but compatible to vanilla client (using /modconnect)
 //#define SERVER_PROTOCOL_VERSION  (PROTOCOL_VERSION)    // server with incompatible protocol (change PROTOCOL_VERSION in file protocol.h to a negative number!)
 
 #define valid_flag(f) (f >= 0 && f < 2)
@@ -13,7 +13,7 @@ enum { ST_EMPTY, ST_LOCAL, ST_TCPIP };
 
 extern int servmillis;
 extern bool triggerpollrestart;
-
+ 
 struct shotevent
 {
     int type;
@@ -312,7 +312,7 @@ struct client                   // server side version of "dynent" type
 
     void reset()
     {
-        name[0] = pwd[0] = country[0] = lang[0] = demoflags = 0;
+        name[0] = pwd[0] = demoflags = 0;
         ip = ip_censored = 0;
         pubkeyhex[0] = '\0';
         vita = NULL;
@@ -529,11 +529,11 @@ guninfo guns[NUMGUNS] =
     //modelname                 sound                reloadtime        damage    projspeed  spread     magsize    mKB      reB          reF        isauto
     //             title                      reload       attackdelay      piercing     part     recoil       mKR     reI        reM        pFX
     { "knife",   "Knife",        S_KNIFE,   S_NULL,     0,      500,    50, 100,     0,   0,  1,    1,   1,    0,  0,   0,   0,    0,    0,   1,   false },
-    { "pistol",  "Pistol",       S_PISTOL,  S_RPISTOL,  1400,   160,    18,   0,     0,   0, 53,   10,   10,   6,  5,   6,  35,   58,   125,  1,   false },
+    { "pistol", "Pistol", S_PISTOL, S_RPISTOL, 1400, 160, 500, 0, 0, 0, 53, 10, 10, 6, 5, 6, 35, 58, 125, 1, true},
     { "carbine", "TMP-M&A CB",   S_CARBINE, S_RCARBINE, 1800,   720,    60,  40,     0,   0, 10,   60,   10,   4,  4,  10,  60,   60,   150,  1,   false },
-    { "shotgun", "V-19 CS",      S_SHOTGUN, S_RSHOTGUN, 2400,   880,    1,    0,     0,   0,  1,   35,    7,   9,  9,  10, 140,  140,   125,  1,   false },   // CAUTION dmg only sane for server!
+    { "shotgun", "V-19 CS",      S_SHOTGUN, S_RSHOTGUN, 2400,   880,    1,    0,     0,   0,  1,   35,    7,   9,  9,  10, 140,  140,   125,  1,   true },   // CAUTION dmg only sane for server!
     { "subgun",  "A-ARD/10 SMG", S_SUBGUN,  S_RSUBGUN,  1650,   80,     16,   0,     0,   0, 45,   15,   30,   1,  2,   5,  25,   50,   188,  1,   true  },
-    { "sniper",  "AD-81 SR",     S_SNIPER,  S_RSNIPER,  1950,   1500,   82,  25,     0,   0, 50,   50,    5,   4,  4,  10,  85,   85,   100,  1,   false },
+ { "sniper", "AD-81 SR", S_SNIPER, S_RSNIPER, 1950, 120, 18, 25, 0, 0, 50, 50, 25, 4, 4, 10, 85, 85, 100, 1, true },
     { "assault", "MTP-57 AR",    S_ASSAULT, S_RASSAULT, 2000,   120,    22,   0,     0,   0, 18,   30,   20,   0,  2,   3,  25,   50,   115,  1,   true  },
     { "grenade", "Grenades",     S_NULL,    S_NULL,     1000,   650,    200,  0,    20,   6,  1,    1,   1,    3,  1,   0,   0,    0,    0,   3,   false },
     { "pistol",  "Akimbo",       S_PISTOL,  S_RAKIMBO,  1400,   80,     18,   0,     0,   0, 50,   10,   20,   6,  5,   4,  15,   25,   115,  1,   true  },

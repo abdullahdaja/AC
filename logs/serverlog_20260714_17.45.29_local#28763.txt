@@ -1,0 +1,21 @@
+logging local AssaultCube server (version -1302, protocol -1300/104) now..
+server is LAN-only - without connection to masterserver
+ACTION REQUIRED: you must provide a PRIVATE SERVER KEY via the '-Y' command line argument
+LAN-only because no master is given
+read 2 player vitas from config/servervita.cfg
+anticheat: disabled
+dedicated server started, waiting for clients...
+Ctrl-C to exit
+added 44 servermaps
+read 0 map rotation entries from 'config/maprot.cfg'
+read 0 admin passwords from 'config/serverpwd.cfg'
+read 0 (0) blacklist entries from 'config/serverblacklist.cfg', 0 errors
+read 3 (3) IP list entries from 'config/geoip.cfg', 0 errors, 0 concatenated
+read 0 + 0 entries from nickname blacklist file 'config/nicknameblacklist.cfg', 0 errors
+[25.30.103.76] client connected (--)
+[25.30.103.76] disconnected client  cn 0, 0 seconds played
+[192.168.1.43] client connected (--)
+[192.168.1.43] disconnected client  cn 0, 0 seconds played
+[25.30.103.76] client connected (--)
+[25.30.103.76] disconnected client  cn 0, 0 seconds played
+Status at 14-07-2026 17:46:29: 0 remote clients, 0.0 send, 0.0 rec (K/sec); Ping: #5|80|10; CSL: #0|0|0 (bytes)

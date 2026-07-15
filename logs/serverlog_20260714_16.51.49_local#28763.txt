@@ -1,0 +1,64 @@
+logging local AssaultCube server (version 1302, protocol 1300/104) now..
+server is LAN-only - without connection to masterserver
+ACTION REQUIRED: you must provide a PRIVATE SERVER KEY via the '-Y' command line argument
+LAN-only because no master is given
+read 2 player vitas from config/servervita.cfg
+anticheat: disabled
+dedicated server started, waiting for clients...
+Ctrl-C to exit
+added 44 servermaps
+read 0 map rotation entries from 'config/maprot.cfg'
+read 0 admin passwords from 'config/serverpwd.cfg'
+read 0 (0) blacklist entries from 'config/serverblacklist.cfg', 0 errors
+read 3 (3) IP list entries from 'config/geoip.cfg', 0 errors, 0 concatenated
+read 0 + 0 entries from nickname blacklist file 'config/nicknameblacklist.cfg', 0 errors
+[192.168.1.43] client connected (--)
+[192.168.1.43] abdullah logged in (default), AC: 1302|1604, pubkey: ee13d1d89e6257c327d0964244516038ee6f71e5acb6b6bca42f47d14e214eb7
+
+Game start: keep the flag on ac_keller, 1 players, 10 minutes, mastermode 0, (map rev 21/28661, official, 'getmap' not prepared)
+initdemoslot(): use slot 0, sequence #1
+Demo recording started (#1).
+setupdemorecord(): sequence #1, keep the flag on ac_keller
+[25.30.103.76] client connected (--)
+[25.30.103.76] meadows logged in (default), AC: 1302|1640, pubkey: ec3383bbc6f0a1f928cf8cb62aff4ab8115709199f0ce98ee052da6c7aec09ce
+[25.30.103.76] meadows stole the flag
+
+Game status: keep the flag on ac_keller, 10 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 abdullah            0    0     0   10 normal  192.168.1.43
+ 1 meadows             0    0     0    3 normal  25.30.103.76
+
+Status at 14-07-2026 16:52:49: 2 remote clients, 0.5 send, 0.6 rec (K/sec); Ping: #2|41|4; CSL: #0|0|0 (bytes)
+[25.30.103.76] meadows scored, carrying for 15 seconds, new score 1
+[25.30.103.76] meadows scored, carrying for 30 seconds, new score 2
+[25.30.103.76] meadows scored, carrying for 45 seconds, new score 3
+[192.168.1.43] abdullah slashed meadows
+[25.30.103.76] meadows lost the flag
+[25.30.103.76] meadows headshot abdullah
+
+Game status: keep the flag on ac_keller, 9 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 abdullah            0    2     1   12 normal  192.168.1.43
+ 1 meadows             3    2     1    5 normal  25.30.103.76
+
+Status at 14-07-2026 16:53:49: 2 remote clients, 1.1 send, 1.0 rec (K/sec); Ping: #4|94|8; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_keller, 8 minutes remaining, open, 2 clients
+cn name             flag  frag death ping role    host
+ 0 abdullah            0    2     1   12 normal  192.168.1.43
+ 1 meadows             3    2     1   46 normal  25.30.103.76
+
+Status at 14-07-2026 16:54:49: 2 remote clients, 0.7 send, 0.7 rec (K/sec); Ping: #10|220|20; CSL: #0|0|0 (bytes)
+[192.168.1.43] disconnected client abdullah cn 0, 199 seconds played, score saved
+
+Game status: keep the flag on ac_keller, 7 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 meadows             3    2     1    5 normal  25.30.103.76
+
+Status at 14-07-2026 16:55:49: 1 remote clients, 0.5 send, 0.7 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)
+
+Game status: keep the flag on ac_keller, 6 minutes remaining, open, 1 clients
+cn name             flag  frag death ping role    host
+ 1 meadows             3    2     1    6 normal  25.30.103.76
+
+Status at 14-07-2026 16:56:49: 1 remote clients, 0.1 send, 0.6 rec (K/sec); Ping: #0|0|0; CSL: #0|0|0 (bytes)

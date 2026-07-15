@@ -1,0 +1,252 @@
+######## start logging: 20260715_17.20.18
+Using home directory: profile/
+writing to file: profile/clientlog.txt
+writing to file: profile/config/autoexec.cfg
+created config/autoexec.cfg from template config/configtemplates.zip
+writing to file: profile/config/favourites.cfg
+created config/favourites.cfg from template config/configtemplates.zip
+writing to file: profile/config/pcksources.cfg
+created config/pcksources.cfg from template config/configtemplates.zip
+init: sdl (2.30.0)
+init: net (1.3.6)
+init: world (-(1302))
+init: video: sdl
+init: video: mode
+init: video: misc
+init: gl
+Renderer: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 6.17.0-35-generic) (AMD)
+Driver: 4.6 (Compatibility Profile) Mesa 25.2.8-0ubuntu0.24.04.2
+init: console
+init: sound
+Audio devices: OpenAL Soft
+Sound: OpenAL Soft / OpenAL Soft (OpenAL Community)
+Driver: 1.1 ALSOFT 1.23.1
+init: cfg
+init: models
+could not load packages/models/weapons/assault/tris_high.md3
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mesh "weapon" not found in model weapons/assault, skin skin_weapon.jpg not loaded
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mesh "hands" not found in model weapons/assault, skin ../knife/skin_hands.jpg not loaded
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mdanim: invalid frame 0, range 1 in model weapons/assault
+mdanim: invalid frame 8, range 8 in model weapons/assault
+mdanim: invalid frame 0, range 1 in model weapons/assault
+could not find tag tag_muzzle
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+failed to load model weapons/assault
+init: docs
+init: localconnect
+own IP: 0.0.0.0, censored own IP: 0.0.0.0, --, clock offset -495590 hours -20 minutes
+auth challenge: SERVINFOCHALLENGE<(0) cn: 0 c: 0.0.0.0 (--) s: 0.0.0.0:0 3b6a27bcceb6a42d62a3a8d02a6f0d73653215771de243a63ac048a18b59da29 st: 0 ct: 29735420 (-1802306137)>
+init: mainloop
+could not read "private/authprivate.cfg"
+read map packages/maps/official/ac_lotus.cgz rev 86 (10 milliseconds)
+Lotus by DogDancing & $N!P3R*
+loaded textures (188 milliseconds)
+loaded mapmodels (201 milliseconds)
+loaded mapsounds (195 milliseconds)
+game mode is "TDM"
+resolving hostname packages.cubers.net succeeded (51.79.7.196)
+http head packages.cubers.net:80/updates.txt response time: 421, status: 404, contentlength: 0
+successfully pinged 1 media server, 0 failures, 0 disabled
+could not load packages/models/weapons/assault/tris_high.md3
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mesh "weapon" not found in model weapons/assault, skin skin_weapon.jpg not loaded
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mesh "hands" not found in model weapons/assault, skin ../knife/skin_hands.jpg not loaded
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mdanim: invalid frame 0, range 1 in model weapons/assault
+mdanim: invalid frame 8, range 8 in model weapons/assault
+mdanim: invalid frame 0, range 1 in model weapons/assault
+could not find tag tag_muzzle
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+failed to load model weapons/assault
+Welcome to AssaultCube
+Developed by 'Rabid Viper Productions'
+
+Use the below menu to change some necessary settings...
+
+Further help & information can be found in your README which is inside your AssaultCube directory.
+TMP-M&A Carbine selected
+you suicided!
+could not read "private/authprivate.cfg"
+could not read "private/authprivate.cfg"
+Master server is not replying.
+Master server is not replying. Get more information at http://masterserver.cubers.net/
+could not read "private/authprivate.cfg"
+could not read "private/authprivate.cfg"
+MTP-57 Assault Rifle selected
+starting botmatch..
+unarmed called a vote: load map ac_africa in mode BTDM
+vote passed
+read map packages/maps/official/ac_africa.cgz rev 16 (15 milliseconds)
+ac_africa by $N!P3R* with help from Snoosnoo
+loaded textures (18 milliseconds)
+loaded mapmodels (45 milliseconds)
+loaded mapsounds (0 milliseconds)
+Waypoints aren't for map ac_africa but for map 
+Starting flood, this may take a while on large maps....
+game mode is "BTDM"
+Bot Team Deathmatch: Find the enemy A.I. and destroy them!
+time remaining: 15 minutes
+Reading bot_skill.cfg file... 
+done
+Bot connected: b00nkind
+Bot connected: Private_Parts
+Bot connected: Shootme
+Bot connected: Johnny_Crash
+Bot connected: Killer
+Bot connected: Amstel
+Bot connected: Killah
+could not load packages/models/weapons/assault/tris_high.md3
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mesh "weapon" not found in model weapons/assault, skin skin_weapon.jpg not loaded
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mesh "hands" not found in model weapons/assault, skin ../knife/skin_hands.jpg not loaded
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+mdanim: invalid frame 0, range 1 in model weapons/assault
+mdanim: invalid frame 8, range 8 in model weapons/assault
+mdanim: invalid frame 0, range 1 in model weapons/assault
+could not find tag tag_muzzle
+(file: packages/models/weapons/assault/md3.cfg [MDLCFG])
+exec nesting level: 1
+md3load tris_high.md3
+md3skin weapon skin_weapon.jpg
+md3skin hands ../knife/skin_hands.jpg
+md3anim "gun idle" 0 1
+md3anim "gun shoot" 8 8
+md3anim "gun reload" 0 1
+md3emit tag_muzzle HUDMUZZLEFLASH 50 75
+
+failed to load model weapons/assault
+Added 501 wps in 582 milliseconds
+Filtered 0 wps
+Total size: 165.59 Kb
+you busted Amstel
+you busted Johnny_Crash
+Shootme punctured Killah
+you busted Killer
+you busted Johnny_Crash
+Amstel punctured Private_Parts
+you were shredded by Killer
+Killer shredded teammate Amstel
+b00nkind gibbed Johnny_Crash
+you were gibbed by Johnny_Crash
+b00nkind punctured teammate Private_Parts
+Killer shredded b00nkind
+you shredded Killer
+you were gibbed by Killah
+Killah busted b00nkind
+writing to file: profile/config/servers.cfg
+writing to file: profile/config/pcksources.cfg
+writing to file: profile/config/saved.cfg
+writing to file: profile/config/history
+writing to file: profile/config/mapmodelattributes.cfg
+writing to file: profile/private/entropy.dat
+bot b00nkind disconnected
+bot Private_Parts disconnected
+bot Shootme disconnected
+bot Johnny_Crash disconnected
+bot Killer disconnected
+bot Amstel disconnected
+bot Killah disconnected

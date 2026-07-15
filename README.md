@@ -50,4 +50,3 @@ free unmodified distribution of AssaultCube's source and binaries. If you have
 any doubts, you can look at the
 [license](https://assault.cubers.net/docs/license.html).
 
-# AC

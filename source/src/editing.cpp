@@ -31,14 +31,14 @@ VAR(editmetakeydown, 1, 0, 0);
 COMMANDF(editmeta, "d", (bool on) { editmetakeydown = on ? 1 : 0; } );
 
 VAR(cleanedit, 0, 0, 1); // hides everything in edit mode you can't see in regular mode
-COMMANDF(togglecleanedit, "", () { cleanedit = !cleanedit; });
+COMMANDF(togglecleanedit, "", () { cleanedit = !cleanedit; }); 
 
 bool editingsettingsshowminimal = false; // minimal reminder you have bits set in edithideentmask
 int keepshowingeditingsettingsfrom = 0;
 int keepshowingeditingsettingstill = 0;
 
 VARFP(editingsettingsvisibletime, 750, 7500, 75000, toucheditingsettings(true); ); // begin anew after any changes
-VARFP(showeditingsettings, 0, 0, 3, { if(showeditingsettings){ toucheditingsettings(true); }else{ keepshowingeditingsettingsfrom = keepshowingeditingsettingstill = 0; }}); // 0:almost entirely off, 1: all off after duration, 2: text off after duration, 3: permanent
+VARFP(showeditingsettings, 0, 0, 3, { if(showeditingsettings){ toucheditingsettings(true); }else{ keepshowingeditingsettingsfrom = keepshowingeditingsettingstill = 0; }}); // 0:almost entirely off, 1: all off after duration, 2: text off after duration, 3: permanent 
 
 void toggleedit(bool force)
 {
@@ -58,7 +58,6 @@ void toggleedit(bool force)
         float oldz = player1->o.z;
         entinmap(player1);                                // find spawn closest to current floating pos
         player1->timeinair = player1->o.z == oldz ? 0: 300;
-        clearminimap(); // EDITMINIMAP: radar/showmap in editmode will be out-of-date
     }
     else
     {
@@ -69,13 +68,6 @@ void toggleedit(bool force)
     editing = editmode ? 1 : 0;
     editing_sp = editmode && !multiplayer(NULL) ? 1 : 0;
     player1->state = editing ? CS_EDITING : (watchingdemo ? CS_SPECTATE : CS_ALIVE);
-    if(editing && player1->crouching){ // updatecrouch & resizephysent for changed keybind group re:LSHIFT
-        player1->crouching = false;
-        player1->trycrouch = false;
-        player1->eyeheightvel = 0.6f;
-        extern void resizephysent(physent *pl, int moveres, int curtime, float min, float max);
-        resizephysent((physent *)player1, 10, 50, player1->eyeheight, player1->maxeyeheight);
-    }
     if(editing && player1->onladder) player1->onladder = false;
     if(editing && (player1->weaponsel->type == GUN_SNIPER && ((sniperrifle *)player1->weaponsel)->scoped)) ((sniperrifle *)player1->weaponsel)->onownerdies(); // or ondeselecting()
     if(editing && (player1->weaponsel->type == GUN_GRENADE) && ((grenades *)player1->weaponsel)->state < GST_THROWING) ((grenades *)player1->weaponsel)->onownerdies();
@@ -160,7 +152,6 @@ char *editinfo()
 // add a selection to the list
 void addselection(int x, int y, int xs, int ys, int h)
 {
-    EDIT("addselection");
     block &s = sels.add();
     if(h == -999 && !OUTBORD(x + xs / 2, y + ys / 2)) h = S(x + xs / 2, y + ys / 2)->floor;
     s.x = x; s.y = y; s.xs = xs; s.ys = ys; s.h = h;
@@ -708,7 +699,7 @@ const char *texturestacktypes[] = { "floor", "wall", "ceiling", "" };
 
 void edittexturestack(char *what, int *slot) // manually manipulate the "last-used" texture lists to put certain textures up front
 {
-    tofronttex(); // keep last edited texture
+    tofronttex(); // keep laste edited texture
     int n = getlistindex(what, texturestacktypes, true, -1);
     if(n >= 0)
     {
@@ -825,8 +816,8 @@ void renderhudtexturepreviews()
 // the entity sparklies have RGB information in renderparticles.cpp:struct parttype .. which we keep redundantly here; consolidation may prove annoying :-/
 static struct partcolour{ float r, g, b; } partcolours[MAXENTTYPES] =
 {
-    { 0.7f, 0.2f, 0.7f }, // NOTUSED
-    { 1.0f, 1.0f, 1.0f }, // LIGHT
+    { 0.7f, 0.2f, 0.7f }, // NOTUSED 
+    { 1.0f, 1.0f, 1.0f }, // LIGHT 
     { 0.0f, 1.0f, 0.0f }, // PLAYERSTART
     { 1.0f, 0.0f, 0.0f }, // I_CLIPS
     { 1.0f, 0.0f, 0.0f }, // I_AMMO

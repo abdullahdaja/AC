@@ -1,0 +1,8 @@
+
+#### 20260714_14.07.23 #### scanning all map directories... found 0 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.08.23 #### scanning all map directories... found 0 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.09.23 #### scanning all map directories... found 0 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.10.23 #### scanning all map directories... found 0 official maps, 0 servermaps and 0 maps in 'incoming'

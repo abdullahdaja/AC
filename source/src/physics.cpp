@@ -477,7 +477,8 @@ void moveplayer(physent *pl, int moveres, bool local, int curtime)
             pl->o.add(d);
             if(pl->jumpnext && !pl->trycrouch)
             {
-                pl->vel.z = 0.5f; // fly directly upwards while holding jump keybinds
+                pl->vel.z = 2.0f; // fly directly upwards while holding jump keybinds
+                
             }
             else if (pl->trycrouch && !pl->jumpnext)
             {
@@ -913,7 +914,7 @@ FVARP(mfilter, 0.0f, 0.0f, 6.0f);               // simple lowpass filtering (zer
 void mousemove(int idx, int idy)
 {
     if(intermission || ispaused || (player1->isspectating() && (player1->spectatemode==SM_FOLLOW1ST||player1->spectatemode==SM_OVERVIEW))) return;
-    bool zooming = player1->weaponsel->type == GUN_SNIPER && ((sniperrifle *)player1->weaponsel)->scoped;               // check if player uses scope
+    bool zooming = player1->scoping;               // check if player is aiming/zooming
     float dx = idx, dy = idy;
     if(mfilter > 0.0001f)
     { // simple IIR-like filter (1st order lowpass)

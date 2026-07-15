@@ -19,7 +19,17 @@ struct weaponmove
     {
         kick = k_rot = 0.0f;
         pos = p->o;
-
+        
+        // if player is scoping/zooming, reduce sway/recoil but keep position
+        if(p->scoping)
+        {
+            k_rot = 0.0f;
+            kick = 0.0f;
+            anim = ANIM_GUN_IDLE;
+            basetime = lastaction;
+            // do NOT early-return or move `pos` drastically; keep default positioning
+            // so the HUD model remains visible while zoomed.
+        }
         if(!nosway)
         {
             float k = pow(0.7f, (lastmillis-lastsway)/10.0f);

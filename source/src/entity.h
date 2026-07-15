@@ -20,7 +20,6 @@ extern short entwraparound[MAXENTTYPES][7];
 extern uchar entscale[MAXENTTYPES][7];
 #define ENTSCALE10 10
 #define ENTSCALE5 5
-#define VANTAGEDUMMY2 222
 
 enum {MAP_IS_BAD, MAP_IS_EDITABLE, MAP_IS_GOOD};
 
@@ -538,14 +537,13 @@ public:
 
     void selectweapon(int w, bool other = false)
     {
-        if(!valid_weapon(w)) return;
-        if(weaponsel) prevweaponsel = weaponsel;
-        weaponsel = weapons[(gunselect = w)];
-        if(!prevweaponsel) prevweaponsel = weaponsel;
-        if(other && (prevweaponsel != weaponsel)) weaponswitch(weaponsel, true);
+        if(weaponsel) prevweaponsel = weaponsel; 
+        weaponsel = weapons[(gunselect = w)]; 
+        if(!prevweaponsel) prevweaponsel = weaponsel; 
+        if(other && (prevweaponsel != weaponsel)) weaponswitch(weaponsel, true); 
     }
 
-    void setprimary(int w) { if(!valid_weapon(w)) return; primweap = weapons[(primary = w)]; }
+    void setprimary(int w) { primweap = weapons[(primary = w)]; }
     void setnextprimary(int w) { nextprimweap = weapons[(nextprimary = w)]; }
     bool isspectating() { return state==CS_SPECTATE || (state==CS_DEAD && spectatemode > SM_NONE); }
     void weaponswitch(weapon *w, bool sound = true)

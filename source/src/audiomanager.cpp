@@ -324,17 +324,6 @@ void audiomanager::updateplayerfootsteps(playerent *p)
         locations.find(S_WATERFOOTSTEPSCROUCH, &ref, gamesounds)
     };
 
-    if(intermission)
-    {
-        loopi(sizeof(locs)/sizeof(locs[0]))
-        {
-            location *l = locs[i];
-            if(!l) continue;
-            l->drop();
-        }
-        return;
-    }
-
     bool local = (p == camera1);
     bool inrange = footsteps && (local || (camera1->o.dist(p->o) < footstepradius));
 
@@ -441,7 +430,7 @@ void voicecom(char *sound, char *text)
         defformatstring(soundpath)("voicecom/%s", sound);
         int s = audiomgr.findsound(soundpath, 0, gamesounds);
         if(!gamesound_isvoicecom(s)) return;
-        bool playvc = true;
+        if(voicecomsounds>0) audiomgr.playsound(s, SP_HIGH);
         if(gamesound_ispublicvoicecom(s)||(!m_teammode&&gamesound_ispublicwhenffa(s))) // public 
         {
             addmsg(SV_VOICECOM, "ri", s);
@@ -449,18 +438,13 @@ void voicecom(char *sound, char *text)
         }
         else // team
         {
-            if(gamesound_isflagvoicecom(s)?m_flags_:true)
+            if(gamesound_isflagvoicecom(s)?!m_flags_:true)
             {
                 addmsg(SV_VOICECOMTEAM, "ri", s);
                 defformatstring(teamtext)("%c%s", '%', text);
                 toserver(teamtext);
             }
-            else
-            {
-                playvc = false;
-            }
         }
-        if(voicecomsounds > 0 && playvc) audiomgr.playsound(s, SP_HIGH);
         last = lastmillis;
     }
 }

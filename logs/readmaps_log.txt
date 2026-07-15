@@ -1,0 +1,818 @@
+
+#### 20260714_13.11.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_13.12.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.13.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.14.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.15.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.16.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.17.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.18.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.19.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.20.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.21.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.22.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.23.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.24.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.25.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.26.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.27.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.28.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.29.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.30.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.31.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.32.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.33.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.34.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.35.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.36.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.37.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.38.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.39.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.40.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.41.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.42.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.43.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.44.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.45.25 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.45.39 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_13.46.39 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.47.31 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_13.48.31 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.49.31 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.50.31 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.51.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_13.52.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.53.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.54.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.55.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.56.49 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_13.56.53 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.02.17 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.11.18 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.12.18 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.13.18 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.14.18 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.15.18 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.16.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.17.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.18.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.19.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.20.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.21.07 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.32.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.33.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.34.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.35.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.36.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.37.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.38.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.39.46 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.40.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.41.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.42.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.43.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.44.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.45.03 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.45.29 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.46.29 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.47.29 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.48.29 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.49.29 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.49.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_14.50.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.51.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.52.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.53.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.54.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.55.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.56.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.57.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.58.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_14.59.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.00.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.01.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.02.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.03.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.04.42 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.07.32 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_15.08.32 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.09.32 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.10.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+read map 'packages/maps/official/ac_africa': cgz 9456 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 16, ents 283, x 70:197, y 63:163, z -10:22, layout 1084 bytes, spawns 9:9:10, flags 1:1
+read map 'packages/maps/official/ac_alcove': cgz 21369 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 24, ents 865, x 30:231, y 30:225, z -20:16, layout 2464 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_aqueous': cgz 19856 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 41, ents 712, x 93:234, y 31:212, z -10:24, layout 1855 bytes, spawns 17:18:37, flags 1:1
+read map 'packages/maps/official/ac_arabian': cgz 27026 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 55, ents 241, x 44:250, y 21:213, z -1:39, layout 3256 bytes, spawns 7:7:7, flags 1:1
+read map 'packages/maps/official/ac_arctic': cgz 15076 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 298, x 53:190, y 77:212, z -10:18, layout 1590 bytes, spawns 7:6:10, flags 0:0
+read map 'packages/maps/official/ac_arctic2': cgz 25065 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 157, ents 757, x 26:245, y 29:247, z -18:22, layout 2894 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_arid': cgz 16003 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 29, ents 289, x 74:189, y 85:186, z -14:19, layout 1638 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_avenue': cgz 21527 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 40, ents 518, x 53:254, y 6:201, z -15:24, layout 2834 bytes, spawns 7:5:11, flags 1:1
+read map 'packages/maps/official/ac_coal': cgz 25299 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 186, ents 874, x 6:254, y 46:210, z 0:76, layout 3267 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_complex': cgz 13461 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 394, x 68:191, y 65:226, z -6:24, layout 1914 bytes, spawns 8:11:21, flags 0:0
+read map 'packages/maps/official/ac_depot': cgz 13105 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 18, ents 516, x 80:317, y 191:385, z -16:18, layout 2835 bytes, spawns 17:12:27, flags 1:1
+read map 'packages/maps/official/ac_desert': cgz 12629 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 234, x 68:187, y 69:187, z -13:16, layout 1425 bytes, spawns 14:10:19, flags 0:0
+read map 'packages/maps/official/ac_desert2': cgz 13010 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 14, ents 226, x 44:201, y 65:209, z -5:20, layout 1509 bytes, spawns 10:10:12, flags 0:0
+read map 'packages/maps/official/ac_desert3': cgz 10128 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 253, x 17:173, y 34:187, z -5:24, layout 1215 bytes, spawns 17:18:30, flags 1:1
+read map 'packages/maps/official/ac_douze': cgz 5704 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 40, ents 245, x 9:125, y 2:127, z -6:24, layout 615 bytes, spawns 0:0:25, flags 1:1
+read map 'packages/maps/official/ac_dusk': cgz 9728 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 12, ents 217, x 6:109, y 3:121, z -10:18, layout 1271 bytes, spawns 8:8:20, flags 1:1
+read map 'packages/maps/official/ac_edifice': cgz 21219 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 54, ents 701, x 1:169, y 4:217, z -17:39, layout 2163 bytes, spawns 6:6:49, flags 1:1
+read map 'packages/maps/official/ac_elevation': cgz 18376 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 673, x 4:126, y 1:126, z -17:24, layout 2288 bytes, spawns 8:8:17, flags 1:1
+read map 'packages/maps/official/ac_gothic': cgz 10991 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 24, ents 288, x 5:122, y 6:122, z -5:21, layout 1392 bytes, spawns 8:8:13, flags 1:1
+read map 'packages/maps/official/ac_industrial': cgz 23202 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 91, ents 409, x 181:376, y 179:321, z -6:25, layout 3504 bytes, spawns 7:7:13, flags 1:1
+read map 'packages/maps/official/ac_ingress': cgz 13717 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 315, x 44:190, y 63:176, z -5:24, layout 1767 bytes, spawns 8:8:14, flags 1:1
+read map 'packages/maps/official/ac_kazemat': cgz 32224 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 309, ents 578, x 1:205, y 27:248, z -10:20, layout 2649 bytes, spawns 12:12:22, flags 1:1
+read map 'packages/maps/official/ac_keller': cgz 28661 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 416, x 23:233, y 14:249, z -23:15, layout 3460 bytes, spawns 9:10:15, flags 1:1
+read map 'packages/maps/official/ac_lainio': cgz 21757 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 152, ents 779, x 38:217, y 38:209, z -12:16, layout 1550 bytes, spawns 10:10:25, flags 1:1
+read map 'packages/maps/official/ac_lotus': cgz 24854 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 86, ents 434, x 19:154, y 6:197, z -6:28, layout 3174 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_mines': cgz 32580 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 19, ents 450, x 29:225, y 45:197, z -25:22, layout 3193 bytes, spawns 15:13:24, flags 1:1
+read map 'packages/maps/official/ac_nocturne': cgz 27279 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 221, ents 524, x 34:185, y 26:177, z -4:27, layout 2565 bytes, spawns 9:9:12, flags 1:1
+read map 'packages/maps/official/ac_origin': cgz 14412 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 123, ents 491, x 70:225, y 65:231, z -5:24, layout 2049 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_outpost': cgz 29399 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 38, ents 422, x 35:243, y 70:218, z -18:26, layout 2496 bytes, spawns 10:10:26, flags 1:1
+read map 'packages/maps/official/ac_power': cgz 14636 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 33, ents 746, x 70:220, y 29:248, z -2:24, layout 1772 bytes, spawns 6:6:16, flags 1:1
+read map 'packages/maps/official/ac_rampart': cgz 10799 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 102, ents 205, x 67:169, y 64:184, z -1:39, layout 1461 bytes, spawns 9:9:20, flags 1:1
+read map 'packages/maps/official/ac_rattrap': cgz 13124 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 50, ents 748, x 79:188, y 54:172, z -2:24, layout 1183 bytes, spawns 8:9:26, flags 0:0
+read map 'packages/maps/official/ac_scaffold': cgz 10942 bytes, cfg 0 bytes (0 gz), version 10, size 7, rev 18, ents 314, x 9:121, y 18:108, z -5:25, layout 1175 bytes, spawns 9:9:6, flags 0:0
+read map 'packages/maps/official/ac_shine': cgz 20348 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 36, ents 485, x 72:209, y 43:201, z -8:27, layout 2472 bytes, spawns 6:5:24, flags 1:1
+read map 'packages/maps/official/ac_snow': cgz 9934 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 21, ents 274, x 7:117, y 10:149, z -3:21, layout 1335 bytes, spawns 6:6:9, flags 0:0
+read map 'packages/maps/official/ac_stellar': cgz 39911 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 57, ents 1349, x 53:238, y 41:203, z -16:19, layout 3485 bytes, spawns 10:10:39, flags 1:1
+read map 'packages/maps/official/ac_sunset': cgz 23777 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 22, ents 394, x 70:220, y 45:186, z -7:21, layout 3047 bytes, spawns 9:10:29, flags 1:1
+read map 'packages/maps/official/ac_swamp': cgz 23987 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 179, ents 656, x 85:236, y 102:247, z -9:24, layout 2325 bytes, spawns 10:10:15, flags 1:1
+read map 'packages/maps/official/ac_terros': cgz 23789 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 108, ents 638, x 24:233, y 45:221, z -13:19, layout 2871 bytes, spawns 10:9:25, flags 1:1
+read map 'packages/maps/official/ac_toxic': cgz 18315 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 105, ents 923, x 58:188, y 49:185, z -5:21, layout 1894 bytes, spawns 11:11:21, flags 0:0
+read map 'packages/maps/official/ac_urban': cgz 14434 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 20, ents 640, x 43:203, y 31:163, z -19:18, layout 1970 bytes, spawns 15:14:23, flags 1:1
+read map 'packages/maps/official/ac_venison': cgz 47375 bytes, cfg 0 bytes (0 gz), version 10, size 9, rev 427, ents 900, x 125:357, y 171:363, z -8:22, layout 3468 bytes, spawns 10:10:20, flags 1:1
+read map 'packages/maps/official/ac_wasteland': cgz 13505 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 66, ents 563, x 45:215, y 64:184, z -6:18, layout 1286 bytes, spawns 10:10:15, flags 0:0
+read map 'packages/maps/official/ac_werk': cgz 19793 bytes, cfg 0 bytes (0 gz), version 10, size 8, rev 30, ents 505, x 71:183, y 72:185, z -1:26, layout 1693 bytes, spawns 20:20:20, flags 1:1
+
+#### 20260714_15.11.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'
+
+#### 20260714_15.12.51 #### scanning all map directories... found 44 official maps, 0 servermaps and 0 maps in 'incoming'

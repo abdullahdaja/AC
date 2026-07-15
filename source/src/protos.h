@@ -863,7 +863,6 @@ extern uchar *readmap(const char *name, int *size, int *revision);
 extern uchar *readmcfggz(const char *name, int *size, int *sizegz);
 extern void rlencodecubes(vector<uchar> &f, sqr *s, int len, bool preservesolids);
 extern bool rldecodecubes(ucharbuf &f, sqr *s, int len, int version, bool silent);
-extern bool gotovantagepoint();
 extern void clearheaderextras();
 extern void automapconfig();
 extern void flagmapconfigchange();
@@ -1203,7 +1202,7 @@ struct servercommandline
                 }
                 else
                 {
-                    ssk = a;
+                    ssk = a; 
                 }
             }
             break;

@@ -3,6 +3,8 @@
 #include "cube.h"
 #include "bot/bot.h"
 
+extern int aniso;
+
 bool hasTE = false, hasMT = false, hasMDA = false, hasDRE = false, hasstencil = false, hasST2 = false, hasSTW = false, hasSTS = false, hasAF;
 
 // GL_ARB_multitexture
@@ -106,6 +108,12 @@ void gl_checkextensions()
        glGetIntegerv(GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT, &val);
        hwmaxaniso = val;
        hasAF = true;
+         // if the user hasn't requested anisotropy, pick a sensible default
+         if(!aniso)
+         {
+              // prefer 4x if available, else use the maximum supported
+              aniso = hwmaxaniso >= 4 ? 4 : hwmaxaniso;
+         }
     }
 
     if(!hasext(exts, "GL_ARB_fragment_program"))
@@ -480,7 +488,7 @@ void fovchanged()
 
 float dynfov()
 {
-    bool isscoped = player1->weaponsel->type == GUN_SNIPER && ((sniperrifle *)player1->weaponsel)->scoped;
+    bool isscoped = player1->scoping;
     bool useremote = spectfovremote && camera1 != player1 && camera1->type == ENT_PLAYER && ((playerent *)camera1)->ffov && ((playerent *)camera1)->scopefov;
     if(camera1 != player1 && camera1->type < ENT_CAMERA) isscoped = ((playerent *)camera1)->scoping;
     if(isscoped) return (float) (useremote ? ((playerent *)camera1)->scopefov : scopefov);
